@@ -1,0 +1,25 @@
+# Semana do Fim de Semana 2024
+
+Este projeto é um site para o evento "Semana do Fim de Semana 2024". O site inclui seções como apresentação do evento, programação, perguntas frequentes e formulário de contato.
+
+## Estrutura do Projeto
+
+- **index.html**: O arquivo principal HTML do site.
+- **styles.css**: O arquivo CSS para estilização do site.
+- **scripts.js**: O arquivo JavaScript para funcionalidades interativas.
+- **Imagens/**: Pasta que contém todas as imagens usadas no site.
+
+## Funcionalidades
+
+- **Formulário de Contato**: Validação de formulário com HTML5 e JavaScript.
+- **Perguntas Frequentes (FAQ)**: Seção interativa com expansão de respostas.
+
+## Pré-requisitos
+
+Certifique-se de ter um navegador moderno para visualizar o site. Não há dependências externas além das que são nativas do HTML, CSS e JavaScript.
+
+## Como Executar o Projeto Localmente
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
